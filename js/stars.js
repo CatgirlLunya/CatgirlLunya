@@ -19,7 +19,7 @@ const canvas = document.getElementById("backgroundCanvas");
 const ctx = canvas.getContext("2d");
 
 let width, height;
-const observer = new ResizeObserver((entries) => {
+const observer = new ResizeObserver(() => {
   width = canvas.clientWidth;
   height = canvas.clientHeight;
 });
