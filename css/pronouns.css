@@ -1,0 +1,47 @@
+.love {
+  color: hotpink;
+}
+
+.like {
+  color: pink;
+}
+
+.dislike {
+  color: indianred;
+}
+
+.hate {
+  color: red;
+}
+
+h2 {
+  color: purple;
+}
+
+h3 {
+  font-size: 110%;
+  color: coral;
+}
+
+li {
+  font-size: 130%;
+}
+
+#legendTable {
+  border-collapse: collapse;
+}
+
+#legendTable tr td {
+  padding: 8px 10px;
+  border: 1px solid #0a3001;
+}
+
+.container {
+  display: flex;
+  gap: 20px
+}
+
+.container>* {
+  margin: 0 10px;
+  flex: 1;
+}
