@@ -3,6 +3,7 @@ html {
   background: #303030;
   font-size: 1em;
   line-height: 1.4;
+  font-weight: bold;
 }
 
 body {
@@ -27,8 +28,9 @@ canvas {
 #headerTable tr td {
   padding: 8px 10px;
   border: 1px solid #0a3001;
+  color: pink;
 }
 
 a {
-  color: hotpink;
+  color:hotpink;
 }

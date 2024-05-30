@@ -21,10 +21,19 @@ h2 {
 h3 {
   font-size: 110%;
   color: coral;
+  margin-bottom: 0;
+  margin-top: 25px;
 }
 
 li {
   font-size: 130%;
+  margin: -5px 0;
+}
+
+ul {
+  list-style: square inside url('../img/les_square.jpg') 10px;
+  padding: 0;
+  margin: 0;
 }
 
 #legendTable {
