@@ -1,0 +1,17 @@
+img {
+  width: auto;
+  height: 300px;
+}
+
+.interest {
+  width: 60%;
+  vertical-align: top
+}
+
+h2 {
+  color:hotpink;
+}
+
+.interest-group {
+  padding-left: 1.3em;
+}
